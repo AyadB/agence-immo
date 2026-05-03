@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "type": "Appartement",
+    "ville": "Bordeaux",
+    "quartier": "Chartrons",
+    "surface": 45,
+    "pieces": 2,
+    "prix": 185000,
+    "loyer": null,
+    "disponible": true,
+    "description": "Bel appartement rénové, parquet ancien, proche tramway"
+  },
+  {
+    "id": 2,
+    "type": "Maison",
+    "ville": "Bordeaux",
+    "quartier": "Caudéran",
+    "surface": 110,
+    "pieces": 4,
+    "prix": 420000,
+    "loyer": null,
+    "disponible": true,
+    "description": "Maison avec jardin, garage, quartier calme"
+  },
+  {
+    "id": 3,
+    "type": "Appartement",
+    "ville": "Mérignac",
+    "quartier": "Centre",
+    "surface": 62,
+    "pieces": 3,
+    "prix": null,
+    "loyer": 850,
+    "disponible": true,
+    "description": "T3 lumineux, balcon, parking inclus"
+  },
+  {
+    "id": 4,
+    "type": "Studio",
+    "ville": "Bordeaux",
+    "quartier": "Victoire",
+    "surface": 28,
+    "pieces": 1,
+    "prix": null,
+    "loyer": 620,
+    "disponible": true,
+    "description": "Studio étudiant, proche fac, meublé"
+  },
+  {
+    "id": 5,
+    "type": "Maison",
+    "ville": "Pessac",
+    "quartier": "Alouette",
+    "surface": 90,
+    "pieces": 4,
+    "prix": 310000,
+    "loyer": null,
+    "disponible": false,
+    "description": "Maison rénovée, cuisine équipée, sous compromis"
+  }
+]
